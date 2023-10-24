@@ -1,20 +1,25 @@
-<!DOCTYPE html>
-<html lang="pt-br">
 <head>
-  <meta charset="UTF-8">
-  
+      <meta charset="UTF-8">
+      <title>Loja Das Artes</title>
+      <link rel="stylisheet">
+   
+   <style>
+       p {
+            text-align: center
+       }
+    </style>
+      
+ </head>
 
-  <title>Loja Das Artes</title>
-</head>
-<body>
+ <body>
 
-   <h1 style="text align: center" >Sobre Loja das Artes</h1>
+   <h1 style="text-align: center" >Sobre Loja das Artes</h1>
 
-   <p style= "text  aligh: center"     >Localizada no coração da cidade de boa esperança, a <strong>Loja das Artes</strong> traz para o mercado o que há de melhor no mundo artístico. Fundada em 2023, a Loja das Artes já é destaque na cidade e conquista novos clientes a cada dia.</p>
+   <p>Localizada no coração da cidade de boa esperança, a <strong>Loja das Artes</strong> traz para o mercado o que há de melhor no mundo artístico. Fundada em 2023, a Loja das Artes já é destaque na cidade e conquista novos clientes a cada dia.</p>
 
    <p style="font-size: 20px"><em>Nossa missão é: <strong>"Proporcionar o melhor das artes aos clientes".</strong></em></p>
 
-   <p>Oferecemos profissionais experientes e antenados Ã s mudanças no mundo da moda. O atendimento possui padrão de excelẽcia e agilidade, garantindo qualidade e satisfaçãoo dos nossos clientes.</p>
-</body>
+<p>Oferecemos profissionais experientes e antenados Ã s mudanças no mundo da moda. O atendimento possui padrão de excelẽcia e agilidade, garantindo qualidade e satisfaçãoo dos nossos clientes.</p>
+ </body>
   
 </html>
