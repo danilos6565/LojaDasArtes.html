@@ -7,7 +7,10 @@
  </head>
 
  <body>
-   <h1>Sobre Loja das Artes</h1>
+  
+ <img src="davidtamanho-cke.webp">
+       
+       <h1>Sobre Loja das Artes</h1>
 
    <p>Localizada no coração da cidade de boa esperança, a <strong>Loja das Artes</strong> traz para o mercado o que há de melhor no mundo artístico. Fundada em 2023, a Loja das Artes já é destaque na cidade e conquista novos clientes a cada dia.</p>
 
